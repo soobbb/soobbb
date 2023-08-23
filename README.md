@@ -7,9 +7,9 @@
 안녕하세요! 저는 Soobin이라고 합니다.
 
 ## Projects
-- [MoovDa]([MoovDa](https://github.com/codestates-seb/seb44_main_020))
-- [StackoverFlow]([StackoverFlow](https://github.com/codestates-seb/seb44_pre_024))
-...
+- [MoovDa]((https://github.com/codestates-seb/seb44_main_020))
+- [StackoverFlow]((https://github.com/codestates-seb/seb44_pre_024))
+
 
 ## Contact
 - Email: soob8437@gmail.com
