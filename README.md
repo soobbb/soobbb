@@ -7,8 +7,8 @@
 안녕하세요! 저는 Soobin이라고 합니다.
 
 ## Projects
-- [Project 1]([MoovDa](https://github.com/codestates-seb/seb44_main_020))
-- [Project 2]([StackoverFlow](https://github.com/codestates-seb/seb44_pre_024))
+- [MoovDa]([MoovDa](https://github.com/codestates-seb/seb44_main_020))
+- [StackoverFlow]([StackoverFlow](https://github.com/codestates-seb/seb44_pre_024))
 ...
 
 ## Contact
