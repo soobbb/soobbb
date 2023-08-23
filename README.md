@@ -1,19 +1,17 @@
-### Welecome to Soobin Github👋
+# Welcome to Soobin's GitHub! 👋
 
-#### Tech Stack 
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/자바스크립트-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+## Tech Stack
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
-<!--
-**soobbb/soobbb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+안녕하세요! 저는 Soobin이라고 합니다. 개발과 컴퓨터 과학에 관심이 많습니다.
 
-Here are some ideas to get you started:
+## Projects
+- [Project 1](프로젝트 링크)
+- [Project 2](프로젝트 링크)
+...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- Email: your.email@example.com
+- LinkedIn: [Your Name](LinkedIn 프로필 링크)
+- Twitter: [@yourtwitterhandle](Twitter 프로필 링크)
