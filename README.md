@@ -1,4 +1,4 @@
-# Welcome to Soobin's GitHub! 👋
+# Welcome to Soobin GitHub! 👋
 
 ## Tech Stack
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
